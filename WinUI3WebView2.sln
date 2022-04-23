@@ -7,6 +7,11 @@ Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "WinUI3WebView2 (Package)", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUI3WebView2", "WinUI3WebView2\WinUI3WebView2\WinUI3WebView2.csproj", "{B3E617BB-8E29-4F6D-B1D1-306B9C2373BB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BC9D2891-912E-4C81-B778-E3A5D128F552}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|arm64 = Debug|arm64
